@@ -107,7 +107,7 @@ body {
   }
 }
 ::view-transition-group(*) {
-  animation-duration: 10s;
+  animation-duration: 1s;
 }
 @view-transition {
   navigation: auto;
