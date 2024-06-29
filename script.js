@@ -1,4 +1,4 @@
-const basePath = "";
+const basePath = "/";
 const determineTransitionType = (oldNavigationEntry, newNavigationEntry) => {
   const currentURL = new URL(oldNavigationEntry.url);
   const destinationURL = new URL(newNavigationEntry.url);
