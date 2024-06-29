@@ -111,7 +111,6 @@ body {
 }
 @view-transition {
   navigation: auto;
-  types: slide, forwards;
 }
 
 /* Determine what gets captured when the type is forwards or backwards */
